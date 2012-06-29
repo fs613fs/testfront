@@ -1,2 +1,2 @@
 this is model 1
-modified via frontend
+modified via frontend 2
